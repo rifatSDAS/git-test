@@ -1,2 +1,2 @@
 # git-test
-test git hub repo for course
+test git hub repo for tutorial
